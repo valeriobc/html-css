@@ -7,4 +7,4 @@
 
  <a href="https://valeriobc.github.io/html-css/desafios/d012/index.html">Projeto-Cordel</a>
 
- <a href="https://valeriobc.github.io/html-css/exercicios/ex023/tabela007.html">Tabela Responsiva</a>
+ <a href="https://valeriobc.github.io/html-css/exercicios/ex023_PDF/tabela007.html">Tabela Responsiva</a>
